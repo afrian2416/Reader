@@ -1,0 +1,4 @@
+streamlit==1.20.0
+PyMuPDF==1.22.3
+ebooklib==0.18
+beautifulsoup4==4.12.2
